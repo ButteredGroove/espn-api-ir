@@ -8,7 +8,10 @@ __pycache__
 .env
 *~
 venv/
+.venv/
 .coverage
+.pytest_cache/
+.mypy_cache/
 build
 dist
 env
